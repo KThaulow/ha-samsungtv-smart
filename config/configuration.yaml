@@ -11,5 +11,7 @@ tts:
 
 logger:
   default: info
-  #logs:
-  #  custom_components.samsungtv_smart: debug
+  logs:
+    custom_components.samsungtv_smart: debug
+
+debugpy:
